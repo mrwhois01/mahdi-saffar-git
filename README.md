@@ -1,4 +1,5 @@
-# mahdi-saffar-git
+# MyArray(X)
+
  1     cout << "Destructor" << endl;
  2   }
  3   void print(void){
